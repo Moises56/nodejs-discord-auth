@@ -1,0 +1,4 @@
+Init Proyect
+
+> npm i express ejs mongoose passport  express-session  passport-discord dotenv connect-mongo
+> npm i -D nodemon
