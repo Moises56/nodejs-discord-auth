@@ -24,8 +24,6 @@ npm start
 npm run dev
 ```
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
 ## Environment variables
 
 _for instance, put something like this in your .env file or added as an environment variable to your system:_
