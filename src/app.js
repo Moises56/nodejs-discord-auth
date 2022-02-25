@@ -47,4 +47,6 @@ app.use("/", require("./routes/index.routes"));
 app.use("/auth", require("./routes/auth.routes"));
 app.use("/dashboard", require("./routes/dashboard.routes"));
 
+app.set('port', process.env.PORT || 3000)
+
 module.exports = app;
