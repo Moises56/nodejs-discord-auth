@@ -33,3 +33,10 @@ DISCORD_CLIENT_ID=132372655045214209
 DISCORD_CLIENT_SECRET=yLzDU83VVWUd8KHud2ooC7k771SPsu_B
 DISCORD_CLIENT_REDIRECT=/auth/redirect
 ```
+
+
+## img
+
+![alt text](https://github.com/Moises56/nodejs-discord-auth/blob/main/img/1a.png?raw=true)
+![alt text](https://github.com/Moises56/nodejs-discord-auth/blob/main/img/2a.png?raw=true)
+![alt text](https://github.com/Moises56/nodejs-discord-auth/blob/main/img/3a.png?raw=true)
